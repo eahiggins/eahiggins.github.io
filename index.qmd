@@ -1,6 +1,6 @@
 ---
 title: "Emma Higgins"
-pagetitle: "Emma Higgins · Conservation Technology & Ecology"
+pagetitle: "Dr Emma Higgins"
 page-layout: full
 title-block-banner: false
 listing:
