@@ -40,7 +40,7 @@ website:
         href: https://github.com/eahiggins
         aria-label: GitHub
   page-footer:
-    left: "© 2026 Emma Higgins · University of South Wales"
+    left: "© 2026 Emma Higgins"
     right: "Built with [Quarto](https://quarto.org)"
 
 format:
