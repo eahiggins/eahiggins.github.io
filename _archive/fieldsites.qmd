@@ -1,0 +1,47 @@
+---
+title: "Field sites"
+title-block-banner: false
+---
+
+```{=html}
+<style>#title-block-header{display:none}</style>
+<div class="page-title-block">
+  <h1>Field Sites</h1>
+  <p>Long-term field partnerships across three continents.</p>
+</div>
+
+<div class="site" id="south-africa">
+  <div class="site-img"><img src="images/selati.jpg" alt="Selati Game Reserve"></div>
+  <div>
+    <span class="country-kicker">South Africa</span>
+    <h2>Selati Game Reserve</h2>
+    <span class="tag">Limpopo · Savanna</span>
+    <p>A large Big Five reserve in the Lowveld. I work with the reserve's research and management teams on large mammal ecology, camera trapping and remote sensing of vegetation, and lead data collection on our undergraduate field course here.</p>
+  </div>
+</div>
+
+<div class="site" id="honduras">
+  <div class="site-img"><img src="images/kanahau.jpg" alt="Kanahau, Utila"></div>
+  <div>
+    <span class="country-kicker">Honduras</span>
+    <h2>Kanahau Research Station</h2>
+    <span class="tag">Utila · Dry forest &amp; mangrove</span>
+    <p>Home of my PhD research and a partnership since 2017. Utila holds endemic reptiles found nowhere else, including the Critically Endangered Utila spiny-tailed iguana. My work here covers thermal ecology, herpetofauna and land-use change.</p>
+  </div>
+</div>
+
+<div class="site" id="wales">
+  <div class="site-img"><img src="images/stackpole.jpg" alt="Stackpole, Pembrokeshire"></div>
+  <div>
+    <span class="country-kicker">Wales</span>
+    <h2>Stackpole</h2>
+    <span class="tag">Pembrokeshire · Coastal estate</span>
+    <p>With the Stackpole Ecological Research Network, Natural Resources Wales and the National Trust, I develop low-cost sensors to support one of the UK's longest-running horseshoe bat monitoring programmes.</p>
+  </div>
+</div>
+
+```
+
+::: {.panel}
+**A note on photos and locations.** To protect sensitive species, photos on this site have location data removed and no exact coordinates are shared.
+:::

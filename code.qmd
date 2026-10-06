@@ -1,0 +1,28 @@
+---
+title: "Code"
+title-block-banner: false
+---
+
+```{=html}
+<style>#title-block-header{display:none}</style>
+<div class="page-title-block">
+  <img class="page-motif" src="images/anole-motif.png" alt="" aria-hidden="true">
+  <h1>Code</h1>
+  <p>Open workflows for ecological remote sensing, movement and sensor data.</p>
+</div>
+```
+
+I work mainly in R (lidR, amt, ctmm, glmmTMB, terra, sf) and Google Earth Engine. Code for published papers will be shared here and on my [GitHub](https://github.com/eahiggins).
+
+## Repositories
+
+<!-- Add each repo as a bullet: name, one line, link. -->
+
+- **Coming soon.** Analysis code for published papers and teaching materials.
+
+## Tutorials
+
+<!-- Quarto can render R code directly. Create a file such as tutorials/ndvi.qmd,
+     write normal R chunks, and add it to the list below. -->
+
+- **Coming soon.** Short worked examples, e.g. processing UAV point clouds in R.

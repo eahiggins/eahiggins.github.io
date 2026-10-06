@@ -1,0 +1,55 @@
+project:
+  type: website
+  output-dir: docs        # GitHub Pages serves this folder
+  resources:
+    - .nojekyll
+    - images/*
+
+website:
+  title: "Dr Emma Higgins"
+  description: "Conservation technology, remote sensing and field ecology"
+  site-url: "https://eahiggins.github.io"
+  favicon: images/favicon.svg
+  page-navigation: false
+  navbar:
+    background: primary
+    left:
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Code
+        href: code.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Join
+        href: join.qmd
+    right:
+      - icon: envelope
+        href: "mailto:emma.higgins@southwales.ac.uk"
+        aria-label: Email
+      - text: ORCID
+        href: https://orcid.org/0000-0001-6039-8960
+      - icon: bluesky
+        href: https://bsky.app/profile/eangharad.bsky.social
+        aria-label: Bluesky
+      - icon: linkedin
+        href: https://www.linkedin.com/in/emma-higgins-91533184
+        aria-label: LinkedIn
+      - icon: github
+        href: https://github.com/eahiggins
+        aria-label: GitHub
+  page-footer:
+    left: "© 2026 Emma Higgins · University of South Wales"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles/theme.scss]
+      dark: [flatly, styles/theme.scss, styles/dark.scss]
+    respect-user-color-scheme: true
+    toc: false
+    lightbox: true
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,43 @@
+---
+title: "Teaching"
+title-block-banner: false
+---
+
+```{=html}
+<style>#title-block-header{display:none}</style>
+<div class="page-title-block">
+  <img class="page-motif" src="images/anole-motif.png" alt="" aria-hidden="true">
+  <h1>Teaching</h1>
+</div>
+```
+
+```{=html}
+<div class="bubbles" aria-label="Photos from fieldwork and field courses">
+  <img class="b b1" src="images/teaching/mangrove.jpg" alt="Mangrove forest">
+  <img class="b b2" src="images/teaching/giraffe.jpg" alt="Giraffe in bushveld">
+  <img class="b b3" src="images/teaching/kingfisher.jpg" alt="Pied kingfisher">
+  <img class="b b4" src="images/teaching/hornbill.jpg" alt="Red-billed hornbill">
+  <img class="b b5 b-main" src="images/teaching/drone.jpg" alt="Flying a drone during a field survey">
+  <img class="b b6" src="images/teaching/jackal.jpg" alt="Black-backed jackal">
+  <img class="b b7" src="images/teaching/giraffes.jpg" alt="Giraffes browsing">
+  <img class="b b8" src="images/teaching/mongoose.jpg" alt="Dwarf mongoose">
+  <img class="b b9" src="images/teaching/lion.jpg" alt="Lioness resting">
+</div>
+```
+
+I teach ecology, conservation biology, statistics, remote sensing and conservation technology at undergraduate and postgraduate level at the University of South Wales, with a strong emphasis on fieldwork and hands-on data collection.
+
+## Roles
+
+- Faculty Fieldwork Coordinator
+- Course Leader, MSc Conservation Technology and Ecological Data Science (from 2028)
+
+## Modules I lead
+
+- Biodiversity
+- Ecological Consultancy
+- Conservation Technology
+
+## In the field
+
+Students on our courses collect real data with camera traps, drones and acoustic sensors on field courses in South Africa, Wales and beyond.

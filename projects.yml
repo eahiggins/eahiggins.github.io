@@ -1,0 +1,53 @@
+# ------------------------------------------------------------------
+# Research themes. Each block is one card on the Research page.
+# To add one: copy a block, edit it, and give it its own image in
+# images/projects/. featured: true also shows it on the home page.
+# ------------------------------------------------------------------
+
+- title: "Acoustics"
+  description: "Passive acoustic monitoring of wildlife, from horseshoe bats to large carnivores, and low-cost networked sensors that bring sound data in from the field."
+  image: images/projects/acoustics.jpg
+  image-alt: "Acoustics"
+  featured: true
+
+- title: "Earth observation"
+  description: "Satellite, drone and laser-scanning data for mapping habitats and land-use change, and understanding how error in these maps affects conservation decisions."
+  image: images/projects/earth-observation.jpg
+  image-alt: "Earth observation"
+  featured: true
+
+- title: "Microclimate ecology"
+  description: "How vegetation structure shapes the fine-scale climates animals actually live in, measured with sensor networks and 3D forest scans."
+  image: images/projects/microclimate-ecology.jpg
+  image-alt: "Microclimate ecology"
+  featured: true
+
+- title: "Thermal biology"
+  description: "Operative temperature, thermal preference and thermal habitat for tropical reptiles, and how warming changes the habitat available to them."
+  image: images/projects/thermal-biology.jpg
+  image-alt: "Thermal biology"
+  featured: true
+
+- title: "Movement ecology"
+  description: "GPS tracking and step-selection models to understand how large mammals such as elephants and carnivores use space."
+  image: images/projects/movement-ecology.jpg
+  image-alt: "Movement ecology"
+  featured: true
+
+- title: "Machine learning in conservation"
+  description: "Machine learning that links remote sensing and sensor data to field measurements, to predict species, habitats and conditions across whole landscapes."
+  image: images/projects/machine-learning.jpg
+  image-alt: "Machine learning in conservation"
+  featured: true
+
+- title: "Computer vision"
+  description: "Automated detection, species classification and individual identification from camera-trap images."
+  image: images/projects/computer-vision.jpg
+  image-alt: "Computer vision"
+  featured: true
+
+- title: "Ethics of conservation technology"
+  description: "How conservation data and technology can be misused, and how protected areas can reduce those risks."
+  image: images/projects/ethics.jpg
+  image-alt: "Ethics of conservation technology"
+  featured: true

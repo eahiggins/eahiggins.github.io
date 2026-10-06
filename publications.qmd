@@ -1,0 +1,61 @@
+---
+title: "Publications"
+title-block-banner: false
+---
+
+```{=html}
+<style>#title-block-header{display:none}</style>
+<div class="page-title-block">
+  <img class="page-motif" src="images/anole-motif.png" alt="" aria-hidden="true">
+  <h1>Publications</h1>
+  <p>Full and up-to-date lists on <a href="https://orcid.org/0000-0001-6039-8960">ORCID</a> and <a href="https://www.researchgate.net/profile/Emma-Higgins-5">ResearchGate</a>.</p>
+</div>
+
+<h2>Peer-reviewed articles</h2>
+
+<!-- To add a paper: copy one <div class="pub"> block and edit it. Newest first. -->
+
+<div class="pub">
+  <div class="yr">2024</div>
+  <div>
+    <p class="t">Unoccupied aerial vehicles as a tool to map lizard operative temperature in tropical environments</p>
+    <p class="a"><strong>Higgins, E. A.</strong>, Boyd, D. S., Brown, T. W., Owen, S. C., Van der Heijden, G. M. F. &amp; Algar, A. C. <span class="j">Remote Sensing in Ecology and Conservation</span> 10(5): 615–627.</p>
+    <a class="doi" href="https://doi.org/10.1002/rse2.393">doi:10.1002/rse2.393</a> · <span class="tag">Open access</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="yr">2021</div>
+  <div>
+    <p class="t">Disentangling controls on animal abundance: Prey availability, thermal habitat, and microhabitat structure</p>
+    <p class="a"><strong>Higgins, E.</strong>, Boyd, D. S., Brown, T. W., Owen, S. C. &amp; Algar, A. C. <span class="j">Ecology and Evolution</span> 11(16): 11414–11424.</p>
+    <a class="doi" href="https://doi.org/10.1002/ece3.7930">doi:10.1002/ece3.7930</a> · <span class="tag">Open access</span>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="yr">2021</div>
+  <div>
+    <p class="t">Thermal sensitivity of feeding and burrowing activity of an invasive crayfish in UK waters</p>
+    <p class="a">Rodríguez Valido, C. A., Johnson, M. F., Dugdale, S. J., Cutts, V., Fell, H. G., <strong>Higgins, E.</strong>, Tarr, S., Templey, C. M. &amp; Algar, A. C. <span class="j">Ecohydrology</span> 14(1): e2258.</p>
+    <a class="doi" href="https://doi.org/10.1002/eco.2258">doi:10.1002/eco.2258</a> · <span class="tag">Open access</span>
+  </div>
+</div>
+
+<h2>Selected conference talks</h2>
+
+<div class="pub">
+  <div class="yr">2023</div>
+  <div>
+    <p class="t">Unoccupied aerial vehicles as a tool to map lizard operative temperature in tropical environments</p>
+    <p class="a">British Ecological Society Annual Meeting.</p>
+  </div>
+</div>
+
+<div class="pub">
+  <div class="yr">2019</div>
+  <div>
+    <p class="t">Anoles &amp; Drones: revealing controls on distribution and microhabitat use of <em>Anolis</em> lizards in a changing island landscape</p>
+  </div>
+</div>
+```

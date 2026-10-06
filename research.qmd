@@ -1,0 +1,26 @@
+---
+title: "Research"
+title-block-banner: false
+listing:
+  id: projects
+  contents: projects.yml
+  type: grid
+  grid-columns: 4
+  sort: false
+  filter-ui: false
+  sort-ui: false
+  fields: [image, title, description]
+  page-size: 50
+---
+
+```{=html}
+<style>#title-block-header{display:none}</style>
+<div class="page-title-block">
+  <img class="page-motif" src="images/anole-motif.png" alt="" aria-hidden="true">
+  <h1>Research</h1>
+  <p>The themes running through my work in conservation technology and field ecology.</p>
+</div>
+```
+
+::: {#projects}
+:::
